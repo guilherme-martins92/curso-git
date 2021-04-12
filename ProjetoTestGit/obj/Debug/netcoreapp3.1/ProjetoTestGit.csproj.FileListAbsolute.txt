@@ -1,0 +1,13 @@
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoTestGit\ProjetoTestGit\bin\Debug\netcoreapp3.1\ProjetoTestGit.exe
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoTestGit\ProjetoTestGit\bin\Debug\netcoreapp3.1\ProjetoTestGit.deps.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoTestGit\ProjetoTestGit\bin\Debug\netcoreapp3.1\ProjetoTestGit.runtimeconfig.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoTestGit\ProjetoTestGit\bin\Debug\netcoreapp3.1\ProjetoTestGit.runtimeconfig.dev.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoTestGit\ProjetoTestGit\bin\Debug\netcoreapp3.1\ProjetoTestGit.dll
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoTestGit\ProjetoTestGit\bin\Debug\netcoreapp3.1\ProjetoTestGit.pdb
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoTestGit\ProjetoTestGit\obj\Debug\netcoreapp3.1\ProjetoTestGit.csprojAssemblyReference.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoTestGit\ProjetoTestGit\obj\Debug\netcoreapp3.1\ProjetoTestGit.AssemblyInfoInputs.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoTestGit\ProjetoTestGit\obj\Debug\netcoreapp3.1\ProjetoTestGit.AssemblyInfo.cs
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoTestGit\ProjetoTestGit\obj\Debug\netcoreapp3.1\ProjetoTestGit.csproj.CoreCompileInputs.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoTestGit\ProjetoTestGit\obj\Debug\netcoreapp3.1\ProjetoTestGit.dll
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoTestGit\ProjetoTestGit\obj\Debug\netcoreapp3.1\ProjetoTestGit.pdb
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoTestGit\ProjetoTestGit\obj\Debug\netcoreapp3.1\ProjetoTestGit.genruntimeconfig.cache
